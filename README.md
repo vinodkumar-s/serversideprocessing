@@ -133,7 +133,7 @@ urlpatterns = [
 ## OUTPUT:
 ![output](/area%20calculator.png)
 
-### Home Page:
+
 
 
 ## Result:
